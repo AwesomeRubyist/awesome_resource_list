@@ -3,7 +3,7 @@
 ## General
 
 - [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
-- [Ruby on Rails guides](guides.rubyonrails.org) (no joke)
+- [Ruby on Rails guides](http://guides.rubyonrails.org) (no joke)
 - [Apidock](http://apidock.com/)
 - [Better Specs](http://betterspecs.org/)
 
