@@ -3,6 +3,7 @@
 ## Guides
 
 - [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
+- [Rails style guide](https://github.com/bbatsov/rails-style-guide)
 - [Ruby on Rails guides](http://guides.rubyonrails.org) (no joke)
 - [Better Specs](http://betterspecs.org/)
 
