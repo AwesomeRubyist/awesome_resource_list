@@ -16,6 +16,9 @@
 - [Ruby Weekly](http://rubyweekly.com/)
 - [reddit for rubyists](https://www.reddit.com/r/ruby)
 
+## Videos && blogs
+- [Confreaks TV](http://confreaks.tv/) - Video from conferences
+
 ## Gems
 
 - [Ruby Version Manager (RVM)](http://rvm.io/rvm/install)
