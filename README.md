@@ -4,3 +4,9 @@
 - [Ruby on Rails guides](guides.rubyonrails.org) (no joke)
 - [Apidock](http://apidock.com/)
 - [Better Specs](http://betterspecs.org/)
+
+## news 
+
+- [RubyFlow](http://www.rubyflow.com/)
+- [Ruby Weekly](http://rubyweekly.com/)
+- [reddit for rubyists](https://www.reddit.com/r/ruby)
