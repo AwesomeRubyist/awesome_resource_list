@@ -16,7 +16,7 @@
 - [Ruby Weekly](http://rubyweekly.com/)
 - [reddit for rubyists](https://www.reddit.com/r/ruby)
 
-## Videos && blogs
+## Video && blogs
 - [Confreaks TV](http://confreaks.tv/) - Video from conferences
 
 ## Gems
