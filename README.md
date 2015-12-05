@@ -15,13 +15,16 @@
 ## News
 
 - [RubyFlow](http://www.rubyflow.com/)
+- [RubyDaily](http://stream.rubydaily.org/)
 - [Ruby Weekly](http://rubyweekly.com/)
 - [Green Ruby News](http://greenruby.org/)
 - [reddit for rubyists](https://www.reddit.com/r/ruby)
+- [reddit for rails hackers](http://www.reddit.com/r/rails/)
 
 ## Video & blogs
 - [Confreaks TV](http://confreaks.tv/) - Video from conferences
 - [RailsClub](http://www.youtube.com/user/railsclub/videos) - Video from Rails Club on YouTube
+- [BRUG](http://www.youtube.com/user/AltorosSystems/videos) - Video from BRUG on YouTube
 
 ## Jobs
 
