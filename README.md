@@ -16,6 +16,7 @@
 
 - [RubyFlow](http://www.rubyflow.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
+- [Green Ruby News](http://greenruby.org/)
 - [reddit for rubyists](https://www.reddit.com/r/ruby)
 
 ## Video & blogs
