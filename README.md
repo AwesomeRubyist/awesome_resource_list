@@ -7,11 +7,12 @@
 - [Ruby on Rails guides](http://guides.rubyonrails.org) (no joke)
 - [Better Specs](http://betterspecs.org/)
 
-## Docks
+## Docs
 
 - [Apidock](http://apidock.com/)
+- [RubyDocs](http://rubydocs.org/) (offline / online)
 
-## News 
+## News
 
 - [RubyFlow](http://www.rubyflow.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
@@ -20,9 +21,13 @@
 ## Video & blogs
 - [Confreaks TV](http://confreaks.tv/) - Video from conferences
 
+## Jobs
+
+- [RubyJobs](http://rubyjobs.ru) (ru)
+
 ## Gems
 
 - [Ruby Version Manager (RVM)](http://rvm.io/rvm/install)
 - [Bundler - manage your app's dependencies](http://bundler.io)
-- [Ruby Toolbox](http:/www.ruby-toolbox.com) 
+- [Ruby Toolbox](http:/www.ruby-toolbox.com)
 - [Awesome Ruby](http://awesome-ruby.com/) - A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
