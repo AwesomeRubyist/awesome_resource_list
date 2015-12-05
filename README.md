@@ -20,6 +20,7 @@
 
 ## Video & blogs
 - [Confreaks TV](http://confreaks.tv/) - Video from conferences
+- [RailsClub](http://www.youtube.com/user/railsclub/videos) - Video from Rails Club on YouTube
 
 ## Jobs
 
