@@ -29,6 +29,7 @@
 - [Github Jobs](https://jobs.github.com)
 
 ## Tools
+- [Ruby Courses](http://rubycourses.ru/)
 - [Ruby Version Manager (RVM)](http://rvm.io/rvm/install)
 - [Bundler - manage your app's dependencies](http://bundler.io)
 - [Ruby Toolbox](http:/www.ruby-toolbox.com)
