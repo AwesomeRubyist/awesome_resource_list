@@ -34,3 +34,4 @@
 - [Bundler - manage your app's dependencies](http://bundler.io)
 - [Ruby Toolbox](http:/www.ruby-toolbox.com)
 - [Awesome Ruby](http://awesome-ruby.com/) - A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
+- [Awesome Ruby | LibHunt](https://ruby.libhunt.com/) - Another great collection of awesome Ruby gems, a bit more structured, ordered by popularity and github activity.
