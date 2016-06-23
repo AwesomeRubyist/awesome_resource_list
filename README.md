@@ -5,6 +5,7 @@
 - [Rails style guide](https://github.com/bbatsov/rails-style-guide)
 - [Ruby on Rails guides](http://guides.rubyonrails.org) (no joke)
 - [Better Specs](http://betterspecs.org/)
+- [Idiosyncratic Ruby](http://idiosyncratic-ruby.com) - noncommon Ruby's best practices
 
 ## Docs
 - [Apidock](http://apidock.com/)
