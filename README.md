@@ -24,6 +24,7 @@
 - [Ruby tapas](http://www.rubytapas.com) - Short screencasts about ruby
 - [RailsClub](http://www.youtube.com/user/railsclub/videos) (ru) - Video from Rails Club on YouTube
 - [BRUG](http://www.youtube.com/user/AltorosSystems/videos) (ru) - Video from BRUG on YouTube
+- [Meet ROM_RB & DRY_RB](https://www.youtube.com/watch?v=jZ0Xf47P6oo) - Piotr Solnica talk about rom-rb and dry-rb
 
 ## Jobs
 - [RubyJobs](http://rubyjobs.ru) (ru)
