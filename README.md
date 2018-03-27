@@ -29,7 +29,7 @@
 ## Jobs
 - [RubyJobs](http://rubyjobs.ru) (ru)
 - [Github Jobs](https://jobs.github.com)
-- [Telegram Jobs](https://t.me/rubyjob)
+- [Telegram Jobs](https://t.me/rubyjob) (ru)
 
 ## Tools
 - [Ruby Courses](http://rubycourses.ru/)
