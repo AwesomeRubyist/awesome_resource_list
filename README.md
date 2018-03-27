@@ -31,6 +31,14 @@
 - [Github Jobs](https://jobs.github.com)
 - [Telegram Jobs](https://t.me/rubyjob) (ru)
 
+## Telegram channels
+- [Pepegramming](https://t.me/pepegramming) (ru)
+- [Rubyata](https://t.me/rubyata) (ru)
+- [Pro.ruby](https://t.me/proRuby) (ru)
+- [Ruby, Rails, Hanami | dry-rb](https://t.me/rubylang) (ru)
+- [Random Ruby Chat](https://t.me/codenamecrud) (ru)
+- [Ruby Talks](https://t.me/ruby_talks) (ru)
+
 ## Tools
 - [Ruby Courses](http://rubycourses.ru/)
 - [Ruby Version Manager (RVM)](http://rvm.io/rvm/install)
