@@ -6,6 +6,9 @@
 - [Ruby on Rails guides](http://guides.rubyonrails.org) (no joke)
 - [Better Specs](http://betterspecs.org/)
 - [Idiosyncratic Ruby](http://idiosyncratic-ruby.com) - noncommon Ruby's best practices
+- [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
+- [Awesome Rails](https://github.com/ekremkaraca/awesome-rails)
+- [RSpec Rails examples](https://github.com/eliotsykes/rspec-rails-examples)
 
 ## Docs
 - [Apidock](http://apidock.com/)
